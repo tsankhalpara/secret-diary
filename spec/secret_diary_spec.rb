@@ -13,3 +13,9 @@ describe "unlock diary method" do
     expect(secret_diary.unlock).to eq "Diary is unlocked"
   end
 end
+
+describe "add entry method" do
+  it "adds an entry to the diary" do
+    expect(secret_diary.add_entry).to eq "Entry added"
+  end
+end
