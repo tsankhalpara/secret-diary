@@ -19,3 +19,9 @@ describe "add entry method" do
     expect(secret_diary.add_entry).to eq "Entry added"
   end
 end
+
+describe "get entry method" do
+  it "gets an entry from the diary" do
+    expect(secret_diary.get_entries).to eq "Entry retrieved"
+  end
+end
