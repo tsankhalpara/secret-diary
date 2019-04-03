@@ -1,4 +1,4 @@
-#### Test Drive the Secret Diary
+# Test Drive the Secret Diary
 
 ```
 SecretDiary
