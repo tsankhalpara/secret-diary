@@ -5,6 +5,7 @@ class SecretDiary
   end
 
   def unlock
+    "Diary is unlocked"
   end
 
   def add_entry

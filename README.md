@@ -19,4 +19,5 @@ When the user calls `lock` again they throw errors again.
 2. Create lib folder with ruby files
 3. Organise secret diary code into one class only
 4. Create spec folder with test file
-5.
+5. Write an initially failing test
+6. Create tests for each method in the class until they are all green
