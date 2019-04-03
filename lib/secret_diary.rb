@@ -1,6 +1,7 @@
 class SecretDiary
 
   def lock
+    "Diary is locked"
   end
 
   def unlock
